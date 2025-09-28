@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# Bank-management-system
+=======
+>>>>>>> 1a4a252 (commit message)
 # Bank Management System
 Welcome to the Bank Management System repository built using Spring Boot! This project is designed to provide a foundation for managing banking operations using modern web technologies.
 
@@ -115,3 +121,7 @@ Contributions to the Bank Management System project are welcome! If you'd like t
 3. Commit your changes.
 4. Push the branch.
 5. Open a Pull Request explaining your changes.
+<<<<<<< HEAD
+=======
+>>>>>>> e527f7e (commit message)
+>>>>>>> 1a4a252 (commit message)
