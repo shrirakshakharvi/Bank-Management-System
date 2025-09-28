@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-# Bank-management-system
-=======
->>>>>>> 1a4a252 (commit message)
 # Bank Management System
 Welcome to the Bank Management System repository built using Spring Boot! This project is designed to provide a foundation for managing banking operations using modern web technologies.
 
@@ -42,16 +36,16 @@ Once you have the required tools installed, follow these steps to install the Ba
 
 1. Clone this repository:
     ```shell
-       git clone https://github.com/Mohammed-eid35/bank-management-system-springboot.git
+      git clone https://github.com/shrirakshakharvi/Bank-Management-System.git
     ```
 2. Edit the database configurations in application.properties file.
 3. Navigate to the project directory:
     ```shell
-    cd bank-management-system-springboot
+    cd Bank-Management-System
     ```
 4. Build and run the application using Maven
     ```shell
-    mvn spring-boot:run
+   mvn spring-boot:run
     ```
 5. Explore the Application: Once the application is up and running, open your web browser and access it at: `http://localhost:8080`
 6. Access API Documentation: Additionally, you can explore the API documentation by navigating to: `http://localhost:8080/swagger-ui.html`. This provides detailed insights into the available API endpoints and functionalities.
@@ -121,7 +115,3 @@ Contributions to the Bank Management System project are welcome! If you'd like t
 3. Commit your changes.
 4. Push the branch.
 5. Open a Pull Request explaining your changes.
-<<<<<<< HEAD
-=======
->>>>>>> e527f7e (commit message)
->>>>>>> 1a4a252 (commit message)
